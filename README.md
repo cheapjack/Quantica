@@ -88,7 +88,7 @@ Records the dialogues we generate
  * Why isnt the world flat? 
  * What is fake news and what is correlation, abductive and inductive reasoning? 
  * Can we access the invisible? 
- * Does information get destroyed? When I delete something on my photo what happens to this information? What is information anyway?
+ * Does information get destroyed? When I delete something on my phone what happens to this information? What is information anyway?
 
 ### Schrodringers Tamagotchi
 
