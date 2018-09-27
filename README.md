@@ -82,9 +82,9 @@ Objects collected from CERN (maybe UoL also) that can be played with
 *with thanks to [Particle Zoo](https://www.particlezoo.net/)*
 
 Soft RPi cameras like [FOMOCam](http://fomocam.co.uk/) for audience to carry around or 360 camera versions in middle of workshop tables a bit lik in [critical-kits](https://www.youtube.com/watch?v=6PEeaHD4woU)
+Records the dialogues we generate 
 
 #### Difficult Questions
- * Record the dialogues we generate 
  * Why isnt the world flat? 
  * What is fake news and what is correlation, abductive and inductive reasoning? 
  * Can we access the invisible? 
@@ -92,7 +92,8 @@ Soft RPi cameras like [FOMOCam](http://fomocam.co.uk/) for audience to carry aro
 
 ### Schrodringers Tamagotchi
 
-<img src="https://cdn.shopify.com/s/files/1/1708/0909/products/quark_6-pack_1024x1024.jpg" width=400>
+<img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F01%2F28%2F88%2F60%2F500_F_128886075_HpwbdjnLHornPvjr521CdNZKCGDPhZep.jpg" width=400>
+
 Fun with an entangled pair of cat tamagotchi in a box flip the lid to see if they are alive or dead! 
 
 #### Difficult Questions
@@ -101,12 +102,16 @@ Fun with an entangled pair of cat tamagotchi in a box flip the lid to see if the
 
 ### Pinball wizards
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pinball_Slingshot_-_The_Machine.JPG/399px-Pinball_Slingshot_-_The_Machine.JPG" width=400>
+
 Make steel ball bearings, glass marbles and plastic and wooden beads behave badly and describe them
 
 #### Difficult Questions
  * Why are atoms so small?
 
 ### Fair-er Phones
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fairphone_2_reverse.JPG/640px-Fairphone_2_reverse.JPG" width=400>
 
 Track and audit the components of your phone!
 
@@ -117,12 +122,16 @@ Track and audit the components of your phone!
 
 ### Quantum Venn Diagram Paradox Party
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bell%27s_Theorem_JCB.jpg/640px-Bell%27s_Theorem_JCB.jpg" width=400>
+
 3 polarizing camera lenses re-create the [Quantum Venn Diagram One Minute Physics Video](https://youtu.be/zcqZHYo7ONs) and lead onto head bending [Bell's Theorem](https://youtu.be/MzRCDLre1b4)
 
 #### Difficult Questions
  * What is so special about light? Who makes these lenses in bulk
 
 ### Pollen Piñata
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sage_pollen.jpg/640px-Sage_pollen.jpg" width=400>
 
 Watch Brownian motion for real!
 
@@ -131,6 +140,7 @@ Watch Brownian motion for real!
 
 ### 3D Printed CERN
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sonne_Busen_Hammer%283D_print%29.jpg/435px-Sonne_Busen_Hammer%283D_print%29.jpg" width=400>
 Explore physical models of scans of CERN labs
 
 #### Difficult Questions
@@ -138,6 +148,7 @@ Explore physical models of scans of CERN labs
 
 ### The Speed of Light with Cheese
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wrapped_American_cheese_slices.jpg/505px-Wrapped_American_cheese_slices.jpg" width=400>
 Measure the speed of light with cheese slices
 
 #### Difficult Questions
