@@ -2,7 +2,8 @@ Material Discursive Apparatus for The People
 ============================================
 
 Let’s not replace design and making with dialogues; making and design *are* the dialogue
-----------------------------------------------------------------------------------------
+
+<img src="https://user-images.githubusercontent.com/128456/46154605-6c5c1d00-c26d-11e8-94c6-85f0393ee8e5.jpg" width=400>
 
 ### Kits and making are material-discursive apparatus for learning: that's what we need to design with our audiences.
 
@@ -13,8 +14,7 @@ maintaining the mobility, convenience and agency of the activity.
 
 Critcal Kits are an *approach* and *sensibility* to kit making:
 
--   Aid the *construction* of knowledge, rather than *illustrate* or
-    > *present*
+-   Aid the *construction* of knowledge, rather than *illustrate* or *present*
 
 -   Embody tricky and creative conversations in an accessible way
 
