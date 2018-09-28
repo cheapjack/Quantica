@@ -62,18 +62,21 @@ steam-ily *design* and make them is our focus with our collaborators.
 
 ### A Way Forward
 
-I've tried to put together some starting points for how this approach gets realised both for the archive elements and general audience engagement, but equally used in the 23rd Novemeber teacher conference, who more than likely would design more specific to them and their curriculum. The materials would frame and start the design conversations we would have in that setting
+I've tried to put together some starting points for how this approach gets realised both for ideas on how to do the archive elements and general audience engagement, but ***especially*** for use in the 23rd Novemeber teacher conference. In that case this group would co-design more prototypes specific to their situation and curriculum. 
 
 ## Practical Activity & Kits
 
-These are activities and kits shared and co-created §by the pilot education programme but sit amongst the 'archive' media and objects; like a CERN charity shop
+Below are activities and 'kit' starting points to share and co-create with the pilot education programme but could sit alongside the 'archive' artistic process media and also objects; like a CERN charity shop.
 
-So the archive sits amongst the 'education' stuff, both could be used or ignored.
+So the archive sits amongst the 'education' stuff, with little distinction.
 
 ### Cultural Probes
-Mark talked about making cultural probes; little critical kits that foster questioning and dialogues: Hands on Tools for science ethnographers and proto scientists.
+
+Mark talked about making cultural probes; little critical kits that foster questioning and dialogues: Or what I call hands-on tools for young science ethnographers.
 
 We've put together some classic STEM kits/ideas and started to think what dialogues and questions they might bring up. These could be presented as like a science studies buffet or the CERN charity shop: participants play with kits or make assemblages of kits and objects and a media clip or their own youtube selections
+
+These need adding to, editing and made practical.
 
 ### Quantica Archive screens 
 
