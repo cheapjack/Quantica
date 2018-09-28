@@ -42,8 +42,7 @@ Niels Bohr's understandings of the importance of the ‘apparatus’ of an exper
 > apparatuses, but rather that apparatuses *are* discursive practices"
 
 It might be useful and relevant with respect to the ethnographic
-approaches of many of the artists and also the material play with
-apparatus of ***Yunchul Kim*** to think of STEAMY kits as *apparatus* in this way. Not as an analogy to experiment, but as a *practice*.
+approaches of most of the *Quantica* artists and the material focus of ***Yunchul Kim***, to think of STEAMY kits as *apparatus* in this way. Not as an analogy to experiment, but as a *practice*.
 
 What we make *embodies* many kinds of *discourse;* of conversations.
 
