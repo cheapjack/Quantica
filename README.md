@@ -28,7 +28,7 @@ Critcal Kits are an *approach* and *sensibility* to kit making:
 -   Lead to exploring and generating more questions, or theory making
 
 We don't want to separate talking from doing: but think of a form of
-***critical making** as **a design discourse ***or ***conversation.***
+***critical making*** as ***a design discourse*** or ***conversation.***
 
 ### Apparatus are discourses
 
