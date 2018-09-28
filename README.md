@@ -1,9 +1,16 @@
-Material Discursive Apparatus for The People
-============================================
+Material Discursive Apparatus for STEM 
+======================================
 
-Let’s not replace design and making with dialogues; making and design *are* the dialogue
+We want to foster critical questions in learning about science and technology. That's come from [critical-kits](https://gitlab.com/redock/critical-kits).
 
 <img src="https://user-images.githubusercontent.com/128456/46154605-6c5c1d00-c26d-11e8-94c6-85f0393ee8e5.jpg" width=400>
+
+We want literacy so we can understand and read but we need to make sure this includes the writing and doing, the knowledge we construct to *intervene* in the world. 
+
+We need to talk crtically about STEM, but let's not replace design, prototyping and making with dialogues; making and design *are* dialogues. What we make and assemble (installations, lesson plans, kits, artworks, experiments, instructions, documentation) embody conversations and knowing. 
+
+Being careful ethnographers, designing what these 'kits' include, means we also notice what we exclude. If everything was in a kit or module it wouldnt be any use. We have to draw a line, we make cuts.
+
 
 ### Kits and making are material-discursive apparatus for learning: that's what we need to design with our audiences.
 
