@@ -7,7 +7,7 @@ We want to foster critical questions in learning about science and technology. T
 
 We want literacy so we can understand and read but we need to make sure this includes the writing and doing, the knowledge we construct to *intervene* in the world. 
 
-We need to talk crtically about STEM, but let's not replace design, prototyping and making with dialogues; making and design *are* dialogues. What we make and assemble (installations, lesson plans, kits, artworks, experiments, instructions, documentation) embody conversations and knowing. 
+We need to talk critically about STEM & STEAM, but let's not replace design, prototyping and making with dialogues; making and design *are* dialogues. What we make and assemble (installations, lesson plans, kits, artworks, experiments, instructions, documentation) embody conversations and knowing. 
 
 Being careful ethnographers, designing what these 'kits' include, means we also notice what we exclude. If everything was in a kit or module it wouldnt be any use. We have to draw a line, we make cuts.
 
