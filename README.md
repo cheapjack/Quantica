@@ -1,4 +1,4 @@
-Material Discursive Apparatus for STEM 
+STEAMY Windows into Quantica
 ======================================
 
 We want to foster critical questions in learning about science and technology. That's come from [critical-kits](https://gitlab.com/redock/critical-kits).
@@ -12,7 +12,7 @@ We need to talk critically about STEM & STEAM, but let's not replace design, pro
 Being careful ethnographers, designing what these 'kits' include, means we also notice what we exclude. If everything was in a kit or module it wouldnt be any use. We have to draw a line, we make cuts.
 
 
-### Kits and making are material-discursive apparatus for learning: that's what we need to design with our audiences.
+### Kits and making are apparatus for learning: that's what we need to design with our audiences.
 
 Making is already dialogical; kits, and making and STEM embody prior and
 present and future conversations. *Critical* making and *Critical Kits*
@@ -32,9 +32,6 @@ We don't want to separate talking from doing: but think of a form of
 
 ### Apparatus are discourses
 
-> “Discourse is not what is said: it is that which constrains and
-> enables what can be said.” (Barad)
-
 Physicist and Feminist studies professor Karen Barad reads the work of
 Niels Bohr's understandings of the importance of the ‘apparatus’ of an experiment, even the *'gedanken'* thought experiments he and Einstein argued over, and puts forward the idea that:
 
@@ -42,7 +39,7 @@ Niels Bohr's understandings of the importance of the ‘apparatus’ of an exper
 > apparatuses, but rather that apparatuses *are* discursive practices"
 
 It might be useful and relevant with respect to the ethnographic
-approaches of most of the *Quantica* artists and the material focus of ***Yunchul Kim***, to think of STEAMY kits as *apparatus* in this way. Not as an analogy to experiment, but as a *practice*.
+approaches of most of the *Quantica* artists and also the material focus of ***Yunchul Kim***, to think of STEAM-Y kits as *apparatus*.
 
 What we make *embodies* many kinds of *discourse;* of conversations.
 
@@ -54,10 +51,10 @@ performing to a stage.
 In fact, rather than designing kits or activity for the construction of
 a bit of scientific knowledge creatively, ‘Steamy making' is about
 designing (but not completely determining) the sort of dialogues people
-might make (and we might record).
+might make. (and we might record).
 
 Working out what those dialogues could be and how we practically &
-steam-ily *design* and make them is our focus with our collaborators.
+steam-ily *design* and make them, is our focus with our collaborators.
 
 ### A Way Forward
 
